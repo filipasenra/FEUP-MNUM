@@ -15,4 +15,4 @@ This repository correspond to school projects from the respective COURSE. The co
 ## Notes:
 Some of the methods in this repository are implemented using Maxima - An Open-Source program for mathematical calculation and much, much more (Described in Sourceforge as: "Maxima, a Computer Algebra System") Sourceforge free download: http://maxima.sourceforge.net/download.html 
 
-(Credits to Rui Alves (RuiAlves , https://github.com/RuiAlves) for the README layout) -->Take a look at his GitHub (it helped me a lot!)
+(Credits to Rui Alves (xRuiAlves , https://github.com/xRuiAlves/) for the README layout) -->Take a look at his GitHub (it helped me a lot!)
