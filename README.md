@@ -10,7 +10,7 @@ Exercises and Exams solutions for the MNUM curricular unit.
 I advise you to take a look at the methods developed for the exams rather than in the folder 'Métodos' since every method in the 'Exames e Testes Resolvidos' folder has been tested more thoroughly.
 
 ## Disclaimer
-This repository correspond to school projects from the respective COURSE. The code on this repo is intended for educational purposes. I do not take any responsibility, liability or whateverity over any code faults, inconsistency or anything else. If you intend on copying most or parts of the code for your school projects, keep in mind that this repo is public, and that your professor might search the web for similar project solutions or whatnot and choose to fail you for copying.
+This repository corresponds to school projects from the respective COURSE. The code on this repo is intended for educational purposes. I do not take any responsibility, liability or whateverity over any code faults, inconsistency or anything else. If you intend on copying most or parts of the code for your school projects, keep in mind that this repo is public, and that your professor might search the web for similar project solutions or whatnot and choose to fail you for copying.
 
 ## Notes:
 Some of the methods in this repository are implemented using Maxima - An Open-Source program for mathematical calculation and much, much more (Described in Sourceforge as: "Maxima, a Computer Algebra System") Sourceforge free download: http://maxima.sourceforge.net/download.html 
