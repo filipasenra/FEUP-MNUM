@@ -1,5 +1,6 @@
 # MNUM
 Exercises and Exams solutions for the MNUM curricular unit.
+**Final Grade**: 17
 
 ## Project Infos
 * Date: 2nd Year, 1st Semester, 2018/2019
